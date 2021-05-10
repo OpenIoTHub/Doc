@@ -1,7 +1,7 @@
 ---
-title : "Modern Documentation Theme"
-description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+title : "云易连智能家居和私有云接入平台"
+description: "一个以开放协议为基础的智能家居接入平台，可以依据云易连协议声明自己的设备并提交对应的插件到云易连，云易连将帮您打通硬件发现和到用户的交互"
+lead: "一个以开放协议为基础的智能家居接入平台"
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
 draft: false
