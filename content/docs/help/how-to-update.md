@@ -1,5 +1,5 @@
 ---
-title: "How to Update"
+title: "怎样更新"
 description: "Regularly update the installed npm packages to keep your Doks website stable, usable, and secure."
 lead: "Regularly update the installed npm packages to keep your Doks website stable, usable, and secure."
 date: 2020-11-12T13:26:54+01:00

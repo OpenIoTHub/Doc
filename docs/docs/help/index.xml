@@ -8,7 +8,7 @@
     <language>en-US</language>
     <lastBuildDate>Tue, 06 Oct 2020 08:49:15 +0000</lastBuildDate><atom:link href="https://doc.iothub.cloud/docs/help/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Update</title>
+      <title>怎样更新</title>
       <link>https://doc.iothub.cloud/docs/help/how-to-update/</link>
       <pubDate>Thu, 12 Nov 2020 13:26:54 +0100</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>Troubleshooting</title>
+      <title>问题处理</title>
       <link>https://doc.iothub.cloud/docs/help/troubleshooting/</link>
       <pubDate>Thu, 12 Nov 2020 15:22:20 +0100</pubDate>
       
@@ -28,7 +28,7 @@ npm run clean  </description>
     </item>
     
     <item>
-      <title>FAQ</title>
+      <title>常见问题</title>
       <link>https://doc.iothub.cloud/docs/help/faq/</link>
       <pubDate>Tue, 06 Oct 2020 08:49:31 +0000</pubDate>
       
