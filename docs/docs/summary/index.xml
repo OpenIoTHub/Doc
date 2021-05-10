@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>summary on </title>
+    <link>https://doc.iothub.cloud/docs/summary/</link>
+    <description>Recent content in summary on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 May 2021 08:48:45 +0000</lastBuildDate><atom:link href="https://doc.iothub.cloud/docs/summary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>必读</title>
+      <link>https://doc.iothub.cloud/docs/summary/introduction/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate>
+      
+      <guid>https://doc.iothub.cloud/docs/summary/introduction/</guid>
+      <description>Get started There are two main ways to get started with Doks:
+Tutorial 👉  The Tutorial is intended for novice to intermediate users.   </description>
+    </item>
+    
+    <item>
+      <title>快速开始</title>
+      <link>https://doc.iothub.cloud/docs/summary/quick-start/</link>
+      <pubDate>Mon, 16 Nov 2020 13:59:39 +0100</pubDate>
+      
+      <guid>https://doc.iothub.cloud/docs/summary/quick-start/</guid>
+      <description>Requirements Doks uses npm to centralize dependency management, making it easy to update resources, build tooling, plugins, and build scripts:
+ Download and install Node.js (it includes npm) for your platform.  Start a new Doks project Create a new site, change directories, install dependencies, and start development server.
+Create a new site Doks is available as a child theme, and a starter theme:
+ Use the Doks child theme, if you do not plan to customize a lot, and/or need future Doks updates.</description>
+    </item>
+    
+    <item>
+      <title>命令</title>
+      <link>https://doc.iothub.cloud/docs/summary/commands/</link>
+      <pubDate>Tue, 13 Oct 2020 15:21:01 +0200</pubDate>
+      
+      <guid>https://doc.iothub.cloud/docs/summary/commands/</guid>
+      <description>💡  You can change the commands in the scripts section of `./package.json`.   </description>
+    </item>
+    
+  </channel>
+</rss>
