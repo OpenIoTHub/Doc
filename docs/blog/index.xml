@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>博客 on </title>
-    <link>https://doc.iothub.cloud/blog/</link>
+    <link>https://iothub.cloud/blog/</link>
     <description>Recent content in 博客 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 06 Oct 2020 08:49:55 +0000</lastBuildDate><atom:link href="https://doc.iothub.cloud/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Oct 2020 08:49:55 +0000</lastBuildDate><atom:link href="https://iothub.cloud/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>欢迎关注云易连平台 👋</title>
-      <link>https://doc.iothub.cloud/blog/say-hello-to-doks/</link>
+      <link>https://iothub.cloud/blog/say-hello-to-doks/</link>
       <pubDate>Mon, 10 May 2021 09:19:42 +0100</pubDate>
       
-      <guid>https://doc.iothub.cloud/blog/say-hello-to-doks/</guid>
+      <guid>https://iothub.cloud/blog/say-hello-to-doks/</guid>
       <description></description>
     </item>
     

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>帮助 on </title>
-    <link>https://doc.iothub.cloud/docs/help/</link>
+    <link>https://iothub.cloud/docs/help/</link>
     <description>Recent content in 帮助 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 06 Oct 2020 08:49:15 +0000</lastBuildDate><atom:link href="https://doc.iothub.cloud/docs/help/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Oct 2020 08:49:15 +0000</lastBuildDate><atom:link href="https://iothub.cloud/docs/help/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>怎样更新</title>
-      <link>https://doc.iothub.cloud/docs/help/how-to-update/</link>
+      <link>https://iothub.cloud/docs/help/how-to-update/</link>
       <pubDate>Thu, 12 Nov 2020 13:26:54 +0100</pubDate>
       
-      <guid>https://doc.iothub.cloud/docs/help/how-to-update/</guid>
+      <guid>https://iothub.cloud/docs/help/how-to-update/</guid>
       <description>💡  Learn more about semantic versioning and advanced range syntax.   </description>
     </item>
     
     <item>
       <title>问题处理</title>
-      <link>https://doc.iothub.cloud/docs/help/troubleshooting/</link>
+      <link>https://iothub.cloud/docs/help/troubleshooting/</link>
       <pubDate>Thu, 12 Nov 2020 15:22:20 +0100</pubDate>
       
-      <guid>https://doc.iothub.cloud/docs/help/troubleshooting/</guid>
+      <guid>https://iothub.cloud/docs/help/troubleshooting/</guid>
       <description>Problems updating npm packages Delete the ./node_modules folder, and run again:
 npm install  Problems with cache Delete the temporary directories:
 npm run clean  </description>
@@ -29,10 +29,10 @@ npm run clean  </description>
     
     <item>
       <title>常见问题</title>
-      <link>https://doc.iothub.cloud/docs/help/faq/</link>
+      <link>https://iothub.cloud/docs/help/faq/</link>
       <pubDate>Tue, 06 Oct 2020 08:49:31 +0000</pubDate>
       
-      <guid>https://doc.iothub.cloud/docs/help/faq/</guid>
+      <guid>https://iothub.cloud/docs/help/faq/</guid>
       <description>Hyas? Doks is a Hyas theme build by the creator of Hyas.
 Footer notice? Please keep it in place.
 Keyboard shortcuts for search?  focus: / select: ↓ and ↑ open: Enter close: Esc  Other documentation?  Netlify Hugo  Can I get support? Create a topic:
