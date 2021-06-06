@@ -19,19 +19,6 @@
     </item>
     
     <item>
-      <title>社交账号</title>
-      <link>https://iothub.cloud/docs/summary/account/</link>
-      <pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate>
-      
-      <guid>https://iothub.cloud/docs/summary/account/</guid>
-      <description>微信公众号：
-微信小程序反馈：
-B站：
-抖音：
-百度百家：</description>
-    </item>
-    
-    <item>
       <title>快速开始</title>
       <link>https://iothub.cloud/docs/summary/quick-start/</link>
       <pubDate>Mon, 16 Nov 2020 13:59:39 +0100</pubDate>
@@ -51,6 +38,15 @@ B站：
 网关 下载页面： gateway-go
 MacOS(Homebrew): brew install gateway-go  openwrt(opkg): opkg install gateway-go  snapcraft(linux): sudo snap install gateway-go  服务器 server-go
 MacOS(Homebrew): brew install server-go  snapcraft(linux): sudo snap install server-go  刷机固件 开源固件主页</description>
+    </item>
+    
+    <item>
+      <title>社交账号</title>
+      <link>https://iothub.cloud/docs/summary/account/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate>
+      
+      <guid>https://iothub.cloud/docs/summary/account/</guid>
+      <description>微信公众号 微信小程序反馈 B站 抖音 百度百家 </description>
     </item>
     
   </channel>

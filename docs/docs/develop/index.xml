@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>develop on </title>
+    <link>https://iothub.cloud/docs/develop/</link>
+    <description>Recent content in develop on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 May 2021 08:48:45 +0000</lastBuildDate><atom:link href="https://iothub.cloud/docs/develop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>简介</title>
+      <link>https://iothub.cloud/docs/develop/introduction/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate>
+      
+      <guid>https://iothub.cloud/docs/develop/introduction/</guid>
+      <description>简介 云易连使用极其宽松的协议来接入第三方设备和服务，开发者可以将以前开发的仅仅添加一个mdns声明就可以接入云易连，mdns声明告诉云易连自身的服务模型和相关信息</description>
+    </item>
+    
+    <item>
+      <title>协议</title>
+      <link>https://iothub.cloud/docs/develop/protocol/</link>
+      <pubDate>Mon, 16 Nov 2020 13:59:39 +0100</pubDate>
+      
+      <guid>https://iothub.cloud/docs/develop/protocol/</guid>
+      <description>协议 云易连使用mdns协议来发现设备和服务，mdns声明云易连需要的数据，云易连将按照设备或服务声明的模型使用对应的UI插件访问。
+服务声明 设备或服务必须以mdns声明为：_iotdevice._tcp
+mdns的TXT    Key 含义 是否必须 值例子 备注     name 名称 是 插座    model 模型 是 com.iotserv.devices.plugin    mac 物理地址 是 AA:BB:CC:DD    id 唯一id 是 3aa599ce-a409-40a9-b439-99046ffed0f7 推荐使用随机uuid   author 作者名 否 Farry    email 联系邮件 否 abc@example.com    home-page 主页 否 https://iothub.cloud/    firmware-respository 开源固件地址 否 https://github.com/iotdevice/plugin    firmware-version 固件地址 否 1.</description>
+    </item>
+    
+  </channel>
+</rss>

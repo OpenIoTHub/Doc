@@ -9,17 +9,17 @@ images: []
 menu:
   docs:
     parent: "summary"
-weight: 100
+weight: 140
 toc: true
 ---
  
-微信公众号：  
+## 微信公众号  
  <img src="/images/qr/公众号.png" width = "500" height = "200" alt="公众号" align=center >  
-微信小程序反馈：  
+## 微信小程序反馈  
  <img src="/images/qr/小程序.png" width = "500" height = "200" alt="小程序" align=center >  
-B站：  
+## B站  
  <img src="/images/qr/b站.jpg" width = "300" height = "400" alt="b站" align=center >  
-抖音：  
+## 抖音  
  <img src="/images/qr/抖音.jpg" width = "300" height = "400" alt="抖音" align=center >   
-百度百家：  
+## 百度百家  
  <img src="/images/qr/百度.jpg" width = "300" height = "300" alt="百度" align=center > 

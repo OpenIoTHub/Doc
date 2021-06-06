@@ -2,29 +2,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>/docs/summary/introduction/</loc>
+      <loc>/docs/develop/introduction/</loc>
       <lastmod>2020-10-06T08:48:57+00:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>/docs/summary/quick-start/</loc>
+      <loc>/docs/develop/protocol/</loc>
       <lastmod>2020-11-16T13:59:39+01:00</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-    
-    <url>
-      <loc>/docs/summary/download/</loc>
-      <lastmod>2020-10-13T15:21:01+02:00</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-    
-    <url>
-      <loc>/docs/summary/account/</loc>
-      <lastmod>2020-10-06T08:48:57+00:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
     </url>
