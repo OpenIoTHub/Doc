@@ -1,2 +1,2 @@
-baseurl = "https://doc.iothub.cloud/"
-canonifyURLs = true
+baseurl = "https://iothub.cloud/"
+canonifyURLs = false

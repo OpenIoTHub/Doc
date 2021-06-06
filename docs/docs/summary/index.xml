@@ -13,8 +13,22 @@
       <pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate>
       
       <guid>https://iothub.cloud/docs/summary/introduction/</guid>
-      <description>Get started There are two main ways to get started with Doks:
-Tutorial 👉  The Tutorial is intended for novice to intermediate users.   </description>
+      <description>简介 云易连的目标是作为一个通用的智能家居设备和私有云服务的接入和访问中心，你可以接入所有的开放联盟所定义的协议的设备或者接入包括米家、天猫精灵、小度、涂鸦、易微联等第三方设备。除了将这些第三方设备接入以外还可以提供插件支持众多的第三方智能音箱的接入，可以实现天猫精灵音箱控制小米的设备。当然智能家居硬件厂商也可以通过云易连的协议主动接入云易连生态。
+整体架构： 开源项目 本项目开源部分主要在如下几个项目地址：
+ OpenIoTHub:主要开源云易连的核心软件，包括APP(及插件)、网关、服务器等  网关:https://github.com/gateway-go 自建公网转发服务器：https://github.com/server-go   IoTDevice:主要开源物联网智能家居硬件及其协议、工具等，以下是主要的开源部分  斐讯DC1接入云易连固件：https://github.com/IoTDevice/phicomm_dc1 斐讯TC1 A1接入云易连固件：https://github.com/IoTDevice/phicomm_tc1_a1 斐讯TC1 A2接入云易连固件：https://github.com/IoTDevice/phicomm_tc1_a2 廉价的ESP32摄像头：https://github.com/IoTDevice/ESP32-CAM 接入云易连的彩灯：https://github.com/IoTDevice/esp8266-RGB-WS2812 esp8266的单开关固件：https://github.com/IoTDevice/esp8266-switch esp8266的串口穿透固件：https://github.com/IoTDevice/UART2TCP esp8266温湿度计：https://github.com/IoTDevice/esp8266-dht11 esp8266的光照强度传感器：https://github.com/IoTDevice/esp8266-gy-30   mdnsService:主要开源私有云相关服务：包括私有云存储、远程桌面等服务  协议 </description>
+    </item>
+    
+    <item>
+      <title>社交账号</title>
+      <link>https://iothub.cloud/docs/summary/account/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate>
+      
+      <guid>https://iothub.cloud/docs/summary/account/</guid>
+      <description>微信公众号：
+微信小程序反馈：
+B站：
+抖音：
+百度百家：</description>
     </item>
     
     <item>
@@ -23,19 +37,20 @@ Tutorial 👉  The Tutorial is intended for novice to intermediate users.   </de
       <pubDate>Mon, 16 Nov 2020 13:59:39 +0100</pubDate>
       
       <guid>https://iothub.cloud/docs/summary/quick-start/</guid>
-      <description>Requirements Doks uses npm to centralize dependency management, making it easy to update resources, build tooling, plugins, and build scripts:
- Download and install Node.js (it includes npm) for your platform.  Start a new Doks project Create a new site, change directories, install dependencies, and start development server.
-Create a new site Doks is available as a child theme, and a starter theme:
- Use the Doks child theme, if you do not plan to customize a lot, and/or need future Doks updates.</description>
+      <description>App使用 云易连使用APP操控您所有的智能家居设备和私有云服务</description>
     </item>
     
     <item>
-      <title>命令</title>
-      <link>https://iothub.cloud/docs/summary/commands/</link>
+      <title>下载</title>
+      <link>https://iothub.cloud/docs/summary/download/</link>
       <pubDate>Tue, 13 Oct 2020 15:21:01 +0200</pubDate>
       
-      <guid>https://iothub.cloud/docs/summary/commands/</guid>
-      <description>💡  You can change the commands in the scripts section of `./package.json`.   </description>
+      <guid>https://iothub.cloud/docs/summary/download/</guid>
+      <description>APP 安卓版：OpenIoTHub
+苹果版：App Store
+网关 下载页面： gateway-go
+MacOS(Homebrew): brew install gateway-go  openwrt(opkg): opkg install gateway-go  snapcraft(linux): sudo snap install gateway-go  服务器 server-go
+MacOS(Homebrew): brew install server-go  snapcraft(linux): sudo snap install server-go  刷机固件 开源固件主页</description>
     </item>
     
   </channel>

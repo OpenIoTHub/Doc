@@ -1,7 +1,7 @@
 ---
 title: "必读"
-description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+description: "云易连是一个用来操控智能家居设备和访问私有云的软件，使用云易连可以轻易访问远程的设备和服务"
+lead: "云易连是一个用来操控智能家居设备和访问私有云的软件，使用云易连可以轻易访问远程的设备和服务"
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
@@ -13,46 +13,33 @@ weight: 100
 toc: true
 ---
 
-## Get started
+## 简介
+云易连的目标是作为一个[通用的智能家居设备和私有云服务的接入和访问中心]()，你可以接入所有的开放联盟所定义的协议的设备或者接入包括米家、天猫精灵、小度、涂鸦、易微联等第三方设备。除了将这些第三方设备接入以外还可以提供插件[支持众多的第三方智能音箱]()的接入，[可以实现天猫精灵音箱控制小米的设备]()。当然智能家居硬件厂商也可以通过云易连的协议主动接入云易连生态。  
+## 整体架构：
 
-There are two main ways to get started with Doks:
+<img src="/images/arch.png" width = "500" height = "400" alt="架构" align=center >  
+### 开源项目
 
-### Tutorial
+本项目开源部分主要在如下几个项目地址：  
+* [OpenIoTHub](https://github.com/OpenIoTHub):主要开源云易连的核心软件，包括APP(及插件)、网关、服务器等  
+```
+网关:https://github.com/gateway-go
+自建公网转发服务器：https://github.com/server-go
+```
+* [IoTDevice](https://github.com/IoTDevice):主要开源物联网智能家居硬件及其协议、工具等，以下是主要的开源部分  
+```
+斐讯DC1接入云易连固件：https://github.com/IoTDevice/phicomm_dc1
+斐讯TC1 A1接入云易连固件：https://github.com/IoTDevice/phicomm_tc1_a1
+斐讯TC1 A2接入云易连固件：https://github.com/IoTDevice/phicomm_tc1_a2
+廉价的ESP32摄像头：https://github.com/IoTDevice/ESP32-CAM
+接入云易连的彩灯：https://github.com/IoTDevice/esp8266-RGB-WS2812
+esp8266的单开关固件：https://github.com/IoTDevice/esp8266-switch
+esp8266的串口穿透固件：https://github.com/IoTDevice/UART2TCP
+esp8266温湿度计：https://github.com/IoTDevice/esp8266-dht11
+esp8266的光照强度传感器：https://github.com/IoTDevice/esp8266-gy-30
+```
+* [mdnsService](https://github.com/mdnsService):主要开源私有云相关服务：包括私有云存储、远程桌面等服务
 
-{{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." >}}
+### 协议
 
-Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
 
-### Quick Start
-
-{{< alert icon="👉" text="The Quick Start is intended for intermediate to advanced users." >}}
-
-One page summary of how to start a new Doks project. [Quick Start →]({{< relref "quick-start" >}})
-
-## Go further
-
-Recipes, Reference Guides, Extensions, and Showcase.
-
-### Recipes
-
-Get instructions on how to accomplish common tasks with Doks. [Recipes →](https://getdoks.org/docs/recipes/project-configuration/)
-
-### Reference Guides
-
-Learn how to customize Doks to fully make it your own. [Reference Guides →](https://getdoks.org/docs/reference-guides/security/)
-
-### Extensions
-
-Get instructions on how to add even more to Doks. [Extensions →](https://getdoks.org/docs/extensions/breadcrumb-navigation/)
-
-### Showcase
-
-See what others have build with Doks. [Showcase →](https://getdoks.org/showcase/electric-blocks/)
-
-## Contributing
-
-Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
-
-## Help
-
-Get help on Doks. [Help →]({{< relref "how-to-update" >}})
