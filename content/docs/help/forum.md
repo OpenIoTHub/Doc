@@ -13,6 +13,7 @@ weight: 610
 toc: true
 ---
 
-[网站](https://wulian.work/)  
-小程序：  
+## 网站提交：
+[前往网站](https://wulian.work/)  
+## 小程序（微信扫码反馈问题）：  
  <img src="/images/qr/小程序.png" width = "500" height = "200" alt="小程序" align=center >  
